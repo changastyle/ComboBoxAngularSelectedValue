@@ -1,0 +1,9 @@
+[
+    {"id":1,"nombre":"Argentina","cp":8400},
+    {"id":2,"nombre":"Chile","cp":8401},
+    {"id":3,"nombre":"Bolivia","cp":8402},
+    {"id":4,"nombre":"Paraguay","cp":8403},
+    {"id":5,"nombre":"Uruguay","cp":8404},
+    {"id":6,"nombre":"Peru","cp":8405},
+    {"id":7,"nombre":"Mexico","cp":8406}
+]
